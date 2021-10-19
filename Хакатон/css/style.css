@@ -1,0 +1,113 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.hero {
+    height: 500px;
+    width: 40%;
+    background-image: url(https://resumeshkin.com/ru/uploads/posts/2020-08/1596531924_devushka-so-svoim-rezyume-na-rabotu.jpg);
+    /* background-image: url(https://img1.akspic.ru/originals/0/6/4/5/5/155460-lenovo_chromebook_s345-pishha-prirodnye_produkty-frukty-rastenie-3840x2160.jpg); */
+    background-position: left;
+    background-size: cover;
+}
+
+.portfolio {
+    background-color: #e3e3e3;
+}
+
+.my-skills {
+    padding-top: 50px;
+}
+
+.list-of-skills {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.my-hobby {
+    padding-top: 50px;
+}
+
+.list-of-hobby {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 50px;
+}
+
+.skills_progress {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.interesting-fact__p {
+    font-size: 25px;
+    color: slateblue;
+}
+
+.hobby {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.hobby_img {
+    animation-name: roll;
+    animation-duration: 5s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+    animation-direction: alternate;
+}
+
+@keyframes roll {
+    from {
+        transform: rotate(0);
+    }
+    to {
+        transform: rotate(180deg);
+    }
+}
+
+.footer {
+    background-color: #e3e3e3;
+}
+
+.card {
+    transform: all 1s;
+}
+
+.card:hover {
+    transform: scale(1.1);
+}
+
+@media all and(max-width: 1920px) {
+    .hero {
+        width: 1920px;
+        margin: 0 auto;
+    }
+}
+
+.shrift {
+    font-size: 25px;
+    background-color: silver;
+}
+
+.nadpisi {
+    font-size: 20px;
+    color: slateblue;
+}
+
+@media all and (max-width: 768px) {
+    .hero {
+        display: none;
+    }
+}

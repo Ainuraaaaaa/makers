@@ -1,0 +1,21 @@
+{
+  "products": [
+    {
+      "title": "Macbook m1pro",
+      "subtitle": "Bootcamp",
+      "id": 1
+    },
+    {
+      "title": "Macbook m1pro",
+      "id": 2
+    },
+    {
+      "title": "ainura",
+      "id": 3
+    },
+    {
+      "title": "beknazar ffdfdfd",
+      "id": 4
+    }
+  ]
+}
