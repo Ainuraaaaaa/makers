@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "name": "jsssssssss",
+      "price": "1000",
+      "desc": "ddddd",
+      "image": "https://i.simpalsmedia.com/999.md/BoardImages/900x900/46bf7c2ffaf422ac7aa16858f0718b43.jpg",
+      "id": 1
+    },
+    {
+      "name": "acer",
+      "price": "100050",
+      "desc": "ddddd",
+      "image": "https://skidka-novosib.ru/images/prodacts/sourse/185/185100_noutbuki-acer-acer-aspire-r3-131t-c0k2-intel-celeron-n3050-1600-mhz-11-6amp-quot-1366x768-4096mb-500gb-hdd-inte-nx-g0yer-009.jpg",
+      "id": 2
+    },
+    {
+      "name": "mac",
+      "price": "120000",
+      "desc": "ddddd",
+      "image": "https://www.imore.com/sites/imore.com/files/topic_images/2015/Switch-to-Mac.png",
+      "id": 3
+    },
+    {
+      "name": "mac",
+      "price": "12000060",
+      "desc": "ddddd",
+      "image": "https://e7.pngegg.com/pngimages/403/993/png-clipart-imac-macbook-pro-graphics-cards-video-adapters-mac-television-angle.png",
+      "id": 4
+    },
+    {
+      "name": "lenovo",
+      "price": "1300000",
+      "desc": "ddddd",
+      "image": "https://tehnoteca.ru/img/1794/1793258/asus_vivobook_s15_k510un_k510un_bq502_7.jpg",
+      "id": 5
+    },
+    {
+      "name": "asus",
+      "price": "600000",
+      "desc": "ddddd",
+      "image": "https://novosibirsk.xbook.ru/upload/resize_cache/iblock/b1e/1200_1200_140cd750bba9870f18aada2478b24840a/7585685s1d.jpg",
+      "id": 6
+    },
+    {
+      "name": "asus",
+      "price": "600000",
+      "desc": "ddddd",
+      "image": "https://www.icover.ru/upload/iblock/010/0105e6a2146f2cdeab2a25f713d58818.jpeg",
+      "id": 7
+    },
+    {
+      "name": "samsung",
+      "price": "600000",
+      "desc": "ddddd",
+      "image": "https://www.icover.ru/upload/iblock/010/0105e6a2146f2cdeab2a25f713d58818.jpeg",
+      "id": 8
+    },
+    {
+      "name": "hp",
+      "price": "603000",
+      "desc": "ddddd",
+      "image": "https://main-cdn.goods.ru/hlr-system/1696368/100023678079b0.jpg",
+      "id": 9
+    }
+  ]
+}

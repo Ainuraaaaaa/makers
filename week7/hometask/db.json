@@ -1,0 +1,39 @@
+{
+  "contact": [
+    {
+      "name": "Bektemirova Ainura",
+      "phone": "996704200830",
+      "id": 1
+    },
+    {
+      "name": "Beknazar Omurbek",
+      "phone": "996501331108",
+      "id": 2
+    },
+    {
+      "name": "Dayana Djanuzakova",
+      "phone": "996555313031",
+      "id": 3
+    },
+    {
+      "name": "Bayel Osorov",
+      "phone": "996507156842",
+      "id": 4
+    },
+    {
+      "name": "Aidai Israilova",
+      "phone": "996557478471",
+      "id": 5
+    },
+    {
+      "name": "Dzhusubalieva Diana",
+      "phone": "996702800405",
+      "id": 6
+    },
+    {
+      "name": "Ismailova Kubanychbek",
+      "phone": "996707344555",
+      "id": 7
+    }
+  ]
+}
